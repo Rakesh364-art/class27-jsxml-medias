@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9c80581e.css",
+    "main.js": "/static/js/main.595e3387.js",
+    "static/js/453.e1a4b6e9.chunk.js": "/static/js/453.e1a4b6e9.chunk.js",
+    "static/media/Devara.mp4": "/static/media/Devara.25430058d370d634aba1.mp4",
+    "static/media/Chuttamalle.mp3": "/static/media/Chuttamalle.1cb28cdcb11db2966792.mp3",
+    "static/media/virat img.jpeg": "/static/media/virat img.2de2b6cdf843d0760144.jpeg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.9c80581e.css.map": "/static/css/main.9c80581e.css.map",
+    "main.595e3387.js.map": "/static/js/main.595e3387.js.map",
+    "453.e1a4b6e9.chunk.js.map": "/static/js/453.e1a4b6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c80581e.css",
+    "static/js/main.595e3387.js"
+  ]
+}
